@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello World, Eu sou Adriano Madeira  👋
+
+---------
+Tenho formação em Desenvolvimento de Software, o que me proporciona um entendimento sólido das técnicas necessárias para projetos na área de tecnologia. Meu foco principal é em back-end, onde aplico meu conhecimento para desenvolver soluções eficientes.
+
+[Acesse o meu Linkedin](www.linkedin.com/in/devadriano21)
+
+---------
 
 <!--
 **DevAdriano21/DevAdriano21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
